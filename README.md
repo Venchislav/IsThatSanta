@@ -9,3 +9,9 @@ Tools used: <br>
 2. Kivy <img src='https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png' width=5%>
 3. Dataset: https://www.kaggle.com/datasets/deepcontractor/is-that-santa-image-classification <br>
 <img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' width=5%>
+<br>
+_________________________________________________________________________________
+<h1>NEWS LIST</h1><br>
+<h2>30.12.23 </h2>
+<h3>Early version of app is available (not built yet, but still)</h3><br>
+<h1>🎉🍾🥂🎆🎇🎅🥳🥳🥳</h1>
