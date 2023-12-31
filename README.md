@@ -15,3 +15,9 @@ ________________________________________________________________________________
 <h2>30.12.23 </h2>
 <h3>Early version of app is available (not built yet, but still)</h3><br>
 <h1>🎉🍾🥂🎆🎇🎅🥳🥳🥳</h1>
+
+<h2>31.12.23 </h2>
+<h3>Last day of the year... Application is now fully working and build-ready, so now I'll try to build it!</h3><br>
+<h4>This year was fantastic. I can call it my Freshman year, as I've learned a lot of new and cool things about programming, dev, and deep learning especially.</h4>
+<h4>Thanks for the support! Happy New Year!!!🍾</h4><br>
+<img src='https://i.pinimg.com/originals/66/77/06/66770693bc15c1b69845eb72d482c70f.gif'>
