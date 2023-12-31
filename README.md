@@ -21,3 +21,5 @@ ________________________________________________________________________________
 <h4>This year was fantastic. I can call it my Freshman year, as I've learned a lot of new and cool things about programming, dev, and deep learning especially.</h4>
 <h4>Thanks for the support! Happy New Year!!!🍾</h4><br>
 <img src='https://i.pinimg.com/originals/66/77/06/66770693bc15c1b69845eb72d482c70f.gif'>
+<br>
+<h1>HAPPY NEW YEAR!!! 2024</h1>
