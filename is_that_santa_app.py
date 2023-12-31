@@ -21,24 +21,24 @@ class IsThatSantaApp(App):
         self.model = create_model()
         self.model.load_weights('weights')
 
+        # Camera image
         self.img1 = Image()
-        """self.img1.size_hint = (.5, .5)
-        self.img1.pos_hint = {'x': .5, 'y': .5}"""
         layout = BoxLayout()
         layout.orientation = 'vertical'
         layout.add_widget(self.img1)
 
+        # Prediction text
         self.text = Label()
         self.text.text = ''
         self.text.color = 'black'
+        self.text.center_x = 0.5
         layout.add_widget(self.text)
 
-        button = Button(text='Is That Santa?')
-        """button.size_hint = (.5, .5)
-        button.pos_hint = {'x': -.5, 'y': .0}"""
-        button.bind(on_press=self.shoot)
-        button.background_color = '#34A65F'
-        button.color = 'white'
+        # Photo button
+        button = Image(source='resources/Photo_btn.png')
+        button.bind(on_touch_down=self.shoot)
+        button.size_hint = (.5, .5)
+        button.pos_hint = {'x': 0.25}
         layout.add_widget(button)
 
         self.capture = cv2.VideoCapture(0)
